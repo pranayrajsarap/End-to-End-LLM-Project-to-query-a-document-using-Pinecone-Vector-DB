@@ -1,0 +1,1 @@
+# End-to-End-LLM-Project-to-query-a-document-using-Pinecone-Vector-DB
